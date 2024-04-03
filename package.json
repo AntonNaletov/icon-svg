@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "posthtml-render": "^3.0.0",
+    "postsvg": "^2.2.7",
+    "vue": "^3.0.0",
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.11",
@@ -17,8 +20,14 @@
     "@vue/cli-service": "~4.5.11",
     "@vue/compiler-sfc": "^3.0.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^7.0.0"
+    "css-loader": "^6.10.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^7.0.0",
+    "sass": "^1.51.0",
+    "sass-loader": "^7.1.0",
+    "posthtml-render": "^3.0.0",
+    "postsvg": "^2.2.7",
+    "vue-router": "^4.3.0"
   },
   "eslintConfig": {
     "root": true,
